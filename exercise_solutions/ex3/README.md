@@ -5,6 +5,6 @@ Write a program with three variables, one named `b` of type `byte`, one named `s
 
 ## Solution
 
-The maxium values for each type is specified in the table in Chapter 2. If you are industrious, you can also find the constants declared in the standard library in the `math` package.
+The maximum values for each type is specified in the table in Chapter 2. If you are industrious, you can also find the constants declared in the standard library in the `math` package.
 
 Adding 1 to each variable causes an overflow, not an error. You get the minimum value for each one. 
